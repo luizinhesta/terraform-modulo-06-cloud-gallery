@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Aurora abstrata</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#302b63"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="374" cy="500" r="75" fill="#00f5a0" fill-opacity="0.55"/>
+  <circle cx="270" cy="96" r="124" fill="#00d9f5" fill-opacity="0.55"/>
+  <circle cx="431" cy="95" r="143" fill="#a18cd1" fill-opacity="0.55"/>
+  <circle cx="435" cy="437" r="98" fill="#00f5a0" fill-opacity="0.55"/>
+  <circle cx="363" cy="116" r="107" fill="#00d9f5" fill-opacity="0.55"/>
+  <circle cx="322" cy="512" r="61" fill="#a18cd1" fill-opacity="0.55"/>
+  <circle cx="186" cy="348" r="64" fill="#00f5a0" fill-opacity="0.55"/>
+
+</svg>

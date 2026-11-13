@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Entardecer nas colinas</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7b5ea7"/><stop offset="1" stop-color="#f2709c"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="620" cy="150" r="70" fill="#ffd166"/>
+  <polygon points="0,600 0,380 180,220 340,400 480,260 680,430 800,330 800,600" fill="#2d1e4f"/>
+  <polygon points="0,600 0,470 140,380 300,500 520,360 800,520 800,600" fill="#1a1033"/>
+</svg>

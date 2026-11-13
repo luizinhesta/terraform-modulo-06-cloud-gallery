@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Malha da nuvem</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b132b"/><stop offset="1" stop-color="#1c2541"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <line x1="363" y1="475" x2="213" y2="434" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="363" y1="475" x2="384" y2="240" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="718" y1="390" x2="674" y2="95" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="718" y1="390" x2="239" y2="112" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="718" y1="390" x2="384" y2="240" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="674" y1="95" x2="213" y2="434" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="674" y1="95" x2="215" y2="423" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="674" y1="95" x2="529" y2="527" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="674" y1="95" x2="384" y2="240" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="239" y1="112" x2="213" y2="434" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="239" y1="112" x2="529" y2="527" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="213" y1="434" x2="215" y2="423" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="213" y1="434" x2="249" y2="471" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="213" y1="434" x2="384" y2="240" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="215" y1="423" x2="249" y2="471" stroke="#6fffe9" stroke-width="2" stroke-opacity="0.7"/>
+  <circle cx="363" cy="475" r="12" fill="#6fffe9"/>
+  <circle cx="718" cy="390" r="12" fill="#6fffe9"/>
+  <circle cx="674" cy="95" r="12" fill="#6fffe9"/>
+  <circle cx="239" cy="112" r="12" fill="#6fffe9"/>
+  <circle cx="213" cy="434" r="12" fill="#6fffe9"/>
+  <circle cx="215" cy="423" r="12" fill="#6fffe9"/>
+  <circle cx="529" cy="527" r="12" fill="#6fffe9"/>
+  <circle cx="249" cy="471" r="12" fill="#6fffe9"/>
+  <circle cx="384" cy="240" r="12" fill="#6fffe9"/>
+
+</svg>

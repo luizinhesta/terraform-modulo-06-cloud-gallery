@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t">
+  <title id="t">Grafo de dependências</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#1f2937"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <line x1="535" y1="366" x2="249" y2="223" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="535" y1="366" x2="454" y2="534" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="535" y1="366" x2="640" y2="326" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="249" y1="223" x2="287" y2="343" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="697" y1="281" x2="287" y2="343" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="287" y1="343" x2="144" y2="141" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="287" y1="343" x2="147" y2="180" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="287" y1="343" x2="640" y2="326" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="647" y1="407" x2="144" y2="141" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="647" y1="407" x2="147" y2="180" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <line x1="647" y1="407" x2="454" y2="534" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.7"/>
+  <circle cx="535" cy="366" r="12" fill="#fbbf24"/>
+  <circle cx="249" cy="223" r="12" fill="#fbbf24"/>
+  <circle cx="697" cy="281" r="12" fill="#fbbf24"/>
+  <circle cx="287" cy="343" r="12" fill="#fbbf24"/>
+  <circle cx="647" cy="407" r="12" fill="#fbbf24"/>
+  <circle cx="144" cy="141" r="12" fill="#fbbf24"/>
+  <circle cx="147" cy="180" r="12" fill="#fbbf24"/>
+  <circle cx="454" cy="534" r="12" fill="#fbbf24"/>
+  <circle cx="640" cy="326" r="12" fill="#fbbf24"/>
+
+</svg>

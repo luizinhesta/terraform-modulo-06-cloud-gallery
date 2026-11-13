@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cloud Gallery</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Cloud Gallery — Atualização com Terraform</h1>
+    <p>Galeria estática servida pelo CloudFront a partir de um bucket S3 privado.</p>
+  </header>
+
+  <main>
+    <div class="controles">
+      <div id="filtros" role="group" aria-label="Filtrar por categoria"></div>
+      <label for="busca">Buscar
+        <input id="busca" type="search" placeholder="Título da imagem">
+      </label>
+    </div>
+    <p id="contagem" role="status" aria-live="polite"></p>
+    <ul id="galeria" class="galeria"></ul>
+  </main>
+
+  <dialog id="visualizador" aria-labelledby="visualizador-titulo">
+    <h2 id="visualizador-titulo"></h2>
+    <img id="visualizador-imagem" alt="">
+    <form method="dialog"><button>Fechar</button></form>
+  </dialog>
+
+  <footer>
+    <p>Protocolo: <strong id="protocolo"></strong> · Origem: <strong id="origem"></strong></p>
+  </footer>
+  <script src="js/gallery.js"></script>
+</body>
+</html>
